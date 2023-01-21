@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.project-card {
+  box-shadow: 0px 1px 2px 2px aliceblue;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.img1 {
+  width: 100%;
+}
+
+.c-head {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 40px;
+}
+
+.c-heading1 {
+  color: #171f46;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.c-para-2 {
+  color: #171f46;
+  font-size: 16px;
+}
+
+.p-d {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.p-link {
+  color: #0967d2;
+  font-weight: bold;
+  font-size: 17px;
+  text-decoration: none;
+}
